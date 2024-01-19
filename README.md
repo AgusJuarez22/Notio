@@ -1,2 +1,2 @@
-# NOTE-APP 
-this app is still in development
+# Notio
+this app is still in developmen
